@@ -1,3 +1,3 @@
 # hello-world
 
-//I am a son of bitch lol
+//It's just a hello world programme'
